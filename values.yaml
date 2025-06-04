@@ -1,0 +1,10 @@
+image:
+  repository: "phylumdev/interview-pretest"
+  tag: "latest"
+
+env:
+  - name: "PHYLUM_IMAGE_SHOULD_RUN"
+    value: "true"
+
+replicaCount: 1
+

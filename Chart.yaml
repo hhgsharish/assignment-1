@@ -1,0 +1,4 @@
+apiVersion: v2
+name: my-helm-chart
+description: A simple Helm chart for running a docker image
+version: 0.1.0
